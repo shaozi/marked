@@ -1,7 +1,6 @@
 # marked
 
-> A full-featured markdown parser and compiler, written in javascript. Built
-> for speed.
+> A fork from marked. Added underline.
 
 [![NPM version](https://badge.fury.io/js/marked.png)][badge]
 
